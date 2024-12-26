@@ -5,10 +5,10 @@ const Hero = () => {
     <section className="bg text-white h-screen flex items-center justify-center">
       <div className="text-center px-6 md:px-12 max-w-3xl">
         <h1 className="text-4xl md:text-6xl font-bold mb-4">
-          Discover the Latest Trends
+          Discover the Latest Collection
         </h1>
         <p className="text-lg md:text-xl mb-8">
-          Shop the newest arrivals in Gen Z fashion, accessories, and more. 
+          Shop the newest arrivals in Frames, Sunglasses and Contact Lenses. 
           Elevate your style with unique pieces curated just for you.
         </p>
         <a
